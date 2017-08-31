@@ -8,7 +8,7 @@
 	// $fromName		= 'Site Name';
 	$fromName			= 'Дилижанс';
 	// Адрес отправки заявок
-	$to1				= 'algashkov@gmail.com';
+	$to1				= '385898sw@gmail.com';
 	// $to1				= 'dil-al-@mail.ru';
 	// if($_POST['mail']){
 	// 	$toUser			= $_POST['mail'];
